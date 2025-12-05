@@ -123,7 +123,7 @@ Remote sensing and LiDAR data analysis for sustainable technology and environmen
 
 ## 📫 Connect With Me
 
-linkedin: 
+linkedin: https://www.linkedin.com/in/rishab-jain-iitb/
 
 ---
 
