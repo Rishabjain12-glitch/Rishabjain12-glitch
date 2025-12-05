@@ -1,24 +1,23 @@
-# Hi, I'm Rishabh Jain 👋
+# Hi, I'm Rishab Jain 👋
 
 ### 3rd Year UG | IIT Bombay | MEMS Department
 
-I'm a passionate student engineer building at the intersection of **materials science**, **full-stack development**, and **entrepreneurship**. Aspiring to represent myself as an entrepreneur in the USA 🚀
+I'm a passionate student engineer building at the intersection of materials science, full-stack development, and entrepreneurship.
 
 🎯 **Currently:** Building innovative tech solutions and exploring startup ideas  
 📚 **Interests:** Sci-fi books, Quantum computing, AI/ML, Sustainable technology  
-💡 **Goal:** Entrepreneur of the Year  
-🌍 **Location:** Mumbai, India
+🌍 Location: Mumbai, India
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python • JavaScript • C++ • SQL  
-**Frontend:** ReactJS • HTML/CSS • Bootstrap  
-**Backend:** Django • REST APIs • JWT Authentication  
-**Database:** PostgreSQL • MongoDB  
-**Tools:** Git • VS Code • Jupyter • Docker • Figma  
-**Exploring:** AI/ML • Blockchain • Remote Sensing • LiDAR Technology
+Languages: Python • JavaScript • C++ • SQL  
+Frontend: ReactJS • HTML/CSS • Bootstrap  
+Backend: Django • REST APIs • JWT Authentication  
+Database: PostgreSQL • MongoDB  
+Tools: Git • VS Code • Jupyter • Docker • Figma  
+Exploring: AI/ML • Blockchain • Remote Sensing • LiDAR Technology
 
 ---
 
@@ -64,6 +63,7 @@ Remote sensing and LiDAR data analysis for sustainable technology and environmen
 **Internship Experience:**
 - YOYO.ai - Backend Development Role
 - Shapoorji Pallonji - Engineering Internship
+- 021 solutions - Strategy & Growth
 
 ---
 
@@ -74,16 +74,11 @@ Remote sensing and LiDAR data analysis for sustainable technology and environmen
 - 📊 Data Analysis & Visualization
 - 🚀 Startup Ecosystem & Innovation
 - 📈 Quantitative Finance (Learning)
-- 🌱 Sustainable Technology
-- 🎮 Gaming & Content Creation
-
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-jain)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@iitb.ac.in)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Rishabjain12-glitch)
+linkedin: 
 
 ---
 
