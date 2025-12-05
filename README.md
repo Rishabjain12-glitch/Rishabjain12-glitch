@@ -80,6 +80,18 @@ Remote sensing and LiDAR data analysis for sustainable technology and environmen
 **Duration:** 2020-2021  
 **Description:** Founded during COVID-19 to teach speaking skills and arts & crafts to underprivileged children through monthly community activities. Managed operations while fundraising ₹20,000+ and supporting family business growth simultaneously. Demonstrates leadership, social responsibility, and community impact.
 
+### 🔐 SecureInsight - Privacy-First AI Financial Analytics for Magic Bus
+**Event:** IITB FinEdge 2025  
+**Tech Stack:** Python, Streamlit, LlamaIndex, Ollama (Phi-3), Sentence-Transformers, RAG  
+**Description:** Developed an on-premise RAG-based financial analytics agent for Magic Bus (₹28M+ annual expenditure). Enables non-technical finance managers to extract insights from complex financial data (PDFs, Excel sheets) using natural language queries without any cloud dependency. Designed for CPU-only execution on standard laptops (8GB RAM), ensuring zero data leakage and complete privacy compliance.
+**Key Features:** 
+- Local-first architecture with zero public API dependency
+- Natural language queries on unstructured financial documents
+- Efficient small language model (Phi-3) optimized for cost effectiveness
+- User-friendly Streamlit interface for finance professionals
+- Addresses $28M+ annual financial data analysis challenges
+**Status:** Completed for FinEdge 2025 competition
+
 ---
 
 ## 📈 GitHub Stats
