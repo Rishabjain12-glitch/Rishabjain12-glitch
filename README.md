@@ -1,16 +1,95 @@
-## Hi there 👋
+# Hi, I'm Rishabh Jain 👋
 
-<!--
-**Rishabjain12-glitch/Rishabjain12-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 3rd Year UG | IIT Bombay | MEMS Department
 
-Here are some ideas to get you started:
+I'm a passionate student engineer building at the intersection of **materials science**, **full-stack development**, and **entrepreneurship**. Aspiring to represent myself as an entrepreneur in the USA 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Currently:** Building innovative tech solutions and exploring startup ideas  
+📚 **Interests:** Sci-fi books, Quantum computing, AI/ML, Sustainable technology  
+💡 **Goal:** Entrepreneur of the Year  
+🌍 **Location:** Mumbai, India
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python • JavaScript • C++ • SQL  
+**Frontend:** ReactJS • HTML/CSS • Bootstrap  
+**Backend:** Django • REST APIs • JWT Authentication  
+**Database:** PostgreSQL • MongoDB  
+**Tools:** Git • VS Code • Jupyter • Docker • Figma  
+**Exploring:** AI/ML • Blockchain • Remote Sensing • LiDAR Technology
+
+---
+
+## 🌟 Featured Projects
+
+### 🎥 [VideoHub](https://github.com/Rishabjain12-glitch)
+Full-stack YouTube-like platform built with Django & ReactJS featuring video upload, streaming, and user authentication.
+
+### 🤖 AI Data Processing Tool
+Secure data processing application leveraging AI for intelligent analysis and insights with privacy-first approach.
+
+### 📊 Materials Characterization Research
+Research projects on semiconductor physics, fracture mechanics, and advanced materials testing at IIT Bombay.
+
+### 🌲 Carbon Estimation System
+Remote sensing and LiDAR data analysis for sustainable technology and environmental impact assessment.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishabjain12-glitch&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabjain12-glitch&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishabjain12-glitch&theme=radical&hide_border=true)
+
+---
+
+## 🎓 Education & Experience
+
+**IIT Bombay** | B.Tech in MEMS (2023-2027)  
+- Coursework: Semiconductors, Fracture Mechanics, Materials Characterization
+- Active in research projects and laboratory work
+- Strong focus on materials science and engineering applications
+
+**Technical Experience:**
+- Full-stack web development (Django + React)
+- AI/ML tool development
+- Data analysis and scientific computing
+- System design and architecture
+
+**Internship Experience:**
+- YOYO.ai - Backend Development Role
+- Shapoorji Pallonji - Engineering Internship
+
+---
+
+## 🏆 Skills & Interests
+
+- 💻 Full-stack Development
+- 🔬 Materials Science & Engineering
+- 📊 Data Analysis & Visualization
+- 🚀 Startup Ecosystem & Innovation
+- 📈 Quantitative Finance (Learning)
+- 🌱 Sustainable Technology
+- 🎮 Gaming & Content Creation
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-jain)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@iitb.ac.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Rishabjain12-glitch)
+
+---
+
+### 💭 Quote I Live By
+*"The best way to predict the future is to invent it."* - Alan Kay
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Rishabjain12-glitch.Rishabjain12-glitch)
+
+⭐️ From [Rishabjain12-glitch](https://github.com/Rishabjain12-glitch)
