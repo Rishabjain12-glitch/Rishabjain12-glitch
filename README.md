@@ -2,7 +2,7 @@
 
 ### 3rd Year UG | IIT Bombay | MEMS Department
 
-I'm a student engineer at the intersection of **quantitative finance**, **machine learning**, and **full-stack development** — building data-driven tools that turn complex information into actionable decisions.
+I'm a student engineer at the intersection of **quantitative finance**, **machine learning**, and **full-stack development**. I like building data-driven tools that turn complex information into actionable decisions.
 
 🎯 **Currently:** Applying ML to equity research and financial analytics  
 📚 **Interests:** Quantitative investing, Competitive Programming, AI/ML, Sci-fi books    
@@ -27,7 +27,7 @@ I'm a student engineer at the intersection of **quantitative finance**, **machin
 ### 📈 [Equity Classification — WiDS Datathon](https://github.com/Rishabjain12-glitch/Equity-Classification)
 > **Machine Learning · Quantitative Finance · WiDS**
 
-Built an ML pipeline that classifies long-term equity investment decisions using **fundamental financial ratios** (P/E, ROE, debt-equity, etc.) — not price signals. Benchmarked multiple classifiers (Logistic Regression, Random Forest, XGBoost) against conventional equity research frameworks. Demonstrates a systematic, data-driven approach to stock picking aligned with value investing principles.
+Built an ML pipeline that classifies long-term equity investment decisions using **fundamental financial ratios** (P/E, ROE, debt-equity, etc.). Benchmarked multiple classifiers (Logistic Regression, Random Forest, XGBoost) against conventional equity research frameworks. Demonstrates a systematic, data-driven approach to stock picking aligned with value investing principles.
 
 **Key Skills:** Feature engineering on financial data, model evaluation, SHAP explainability, investment signal generation
 
@@ -36,7 +36,7 @@ Built an ML pipeline that classifies long-term equity investment decisions using
 ### 🔐 [SecureInsight — RAG Financial Analytics Agent](https://github.com/Rishabjain12-glitch/Magic-Bus-Data-analyst-Chatbot)
 > **FinEdge 2025 · IIT Bombay · Privacy-First AI**
 
-Developed an on-premise RAG-based financial analytics agent for Magic Bus (₹28M+ annual expenditure). Finance managers can query complex financial PDFs and Excel sheets in natural language — **zero cloud dependency**, runs on 8GB RAM laptops. Built with LlamaIndex, Ollama (Phi-3), and Sentence-Transformers.
+Developed an on-premise RAG-based financial analytics agent for Magic Bus (₹28M+ annual expenditure). Finance managers can query complex financial PDFs and Excel sheets in natural language. **zero cloud dependency**, runs on 8GB RAM laptops. Built with LlamaIndex, Ollama (Phi-3), and Sentence-Transformers.
 
 **Key Skills:** RAG pipelines, financial document parsing, local LLM deployment, Streamlit, cost-efficient AI
 
@@ -52,7 +52,7 @@ Retrieval-Augmented Generation chatbot that processes CSV, Excel, PDF, and TXT f
 ### 🧬 [Materials Informatics — SOS'25 ML Research](https://github.com/Rishabjain12-glitch/SOS-Machine-Learning-)
 > **IIT Bombay · Maths & Physics Club · Summer of Science**
 
-Explored machine learning applications in materials science — applying data-driven modeling techniques to predict material properties and behaviors. Bridges quantitative methods from finance-style data analysis into scientific research.
+Explored machine learning applications in materials science, applying data-driven modeling techniques to predict material properties and behaviors. Bridges quantitative methods from finance-style data analysis into scientific research.
 
 ---
 
@@ -66,7 +66,7 @@ End-to-end YouTube-like platform with video upload, streaming, and secure JWT-ba
 ### 🛒 [Quick Commerce Scraper](https://github.com/Rishabjain12-glitch/quick-commerce-scraper)
 > **Python · Web Scraping · Data Pipeline**
 
-Automated scraper for quick-commerce platforms to track pricing data and product availability — useful for competitive intelligence and market analysis.
+Automated scraper for quick-commerce platforms to track pricing data and product availability, useful for competitive intelligence and market analysis.
 
 ---
 
@@ -81,12 +81,9 @@ Engineered an intelligent interrupt-handling pipeline for real-time voice AI age
 
 | Area | Project / Experience |
 |------|----------------------|
-| Equity Research (ML) | Equity Classification — WiDS Datathon |
+| Equity Research (ML) | Equity Classification — Winter In Data Science |
 | Financial AI Agents | SecureInsight — FinEdge 2025, IITB |
 | Data Analytics | Magic Bus Data Analyst Chatbot |
-| Capital Markets | Academic Projects Manager, Motilal Oswal Centre for Capital Markets @ IITB DRF |
-| Quantitative Methods | SOS'25 Machine Learning Research |
-
 ---
 
 ## 📈 GitHub Stats
