@@ -5,8 +5,7 @@
 I'm a student engineer at the intersection of **quantitative finance**, **machine learning**, and **full-stack development** — building data-driven tools that turn complex information into actionable decisions.
 
 🎯 **Currently:** Applying ML to equity research and financial analytics  
-📚 **Interests:** Quantitative investing, Materials Informatics, AI/ML, Sci-fi books  
-🌍 **Location:** Mumbai, India  
+📚 **Interests:** Quantitative investing, Competitive Programming, AI/ML, Sci-fi books    
 💼 **Seeking:** Finance & Quant roles | Capital Markets | Investment Research
 
 ---
@@ -104,10 +103,10 @@ Engineered an intelligent interrupt-handling pipeline for real-time voice AI age
 
 **IIT Bombay** | B.Tech in MEMS (2023–2027)  
 - Coursework: Semiconductors, Fracture Mechanics, Materials Characterization  
-- Active in research, hackathons, and quant finance projects
+- Active in research, Programming, hackathons, and quant finance projects
 
 **Internship & Roles:**
-- **IIT Bombay DRF** — External Engagements Member & Web Manager; Academic Projects Manager at **Motilal Oswal Centre for Capital Markets**
+- **IIT Bombay DRF** — External Engagements Member & Web Manager
 - **021 Solutions** — Strategy & Growth
 
 **Competitions & Achievements:**
@@ -122,7 +121,6 @@ Engineered an intelligent interrupt-handling pipeline for real-time voice AI age
 - 📊 Quantitative Finance & Equity Research
 - 🤖 Machine Learning & AI (applied to financial data)
 - 💻 Full-Stack Development
-- 🔬 Materials Science & Informatics
 - 🚀 Startups & Entrepreneurship
 
 ---
@@ -132,11 +130,3 @@ Engineered an intelligent interrupt-handling pipeline for real-time voice AI age
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishab_Jain-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rishab-jain-iitb/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Rishabjain12--glitch-black?style=flat&logo=github)](https://github.com/Rishabjain12-glitch)
 
----
-
-### 💭 Quote I Live By
-*"Price is what you pay. Value is what you get."* — Warren Buffett
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Rishabjain12-glitch.Rishabjain12-glitch)
-
-⭐️ From [Rishabjain12-glitch](https://github.com/Rishabjain12-glitch)
