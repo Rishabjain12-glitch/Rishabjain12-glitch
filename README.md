@@ -118,8 +118,7 @@ Remote sensing and LiDAR data analysis for sustainable technology and environmen
 - System design and architecture
 
 **Internship Experience:**
-- YOYO.ai - Backend Development Role
-- Shapoorji Pallonji - Engineering Internship
+- IIT Bombay (Developments & Relations Foundation) - Member of external engagements, Web Manager
 - 021 solutions - Strategy & Growth
 
 ---
