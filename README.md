@@ -2,95 +2,91 @@
 
 ### 3rd Year UG | IIT Bombay | MEMS Department
 
-I'm a passionate student engineer building at the intersection of materials science, full-stack development, and entrepreneurship.
+I'm a student engineer at the intersection of **quantitative finance**, **machine learning**, and **full-stack development** — building data-driven tools that turn complex information into actionable decisions.
 
-🎯 **Currently:** Building innovative tech solutions and exploring startup ideas  
-📚 **Interests:** Sci-fi books, Quantum computing, AI/ML, Sustainable technology  
-🌍 Location: Mumbai, India
+🎯 **Currently:** Applying ML to equity research and financial analytics  
+📚 **Interests:** Quantitative investing, Materials Informatics, AI/ML, Sci-fi books  
+🌍 **Location:** Mumbai, India  
+💼 **Seeking:** Finance & Quant roles | Capital Markets | Investment Research
 
 ---
 
 ## 🛠️ Tech Stack
 
-Languages: Python • JavaScript • C++ • SQL  
-Frontend: ReactJS • HTML/CSS • Bootstrap  
-Backend: Django • REST APIs • JWT Authentication  
-Database: PostgreSQL • MongoDB  
-Tools: Git • VS Code • Jupyter • Docker • Figma  
-Exploring: AI/ML • Blockchain • Remote Sensing • LiDAR Technology
+**Languages:** Python • JavaScript • TypeScript • C++ • SQL  
+**Data & ML:** Pandas • Scikit-learn • XGBoost • SHAP • Jupyter  
+**Frontend:** ReactJS • Next.js • HTML/CSS • Tailwind CSS  
+**Backend:** Django • Node.js • REST APIs • JWT Authentication  
+**Database:** PostgreSQL • MongoDB • SQLite  
+**Tools:** Git • VS Code • Docker • Figma  
+**Finance:** Fundamental Analysis • Financial Ratios • Equity Classification • RAG-based Financial Agents
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🎥 [VideoHub](https://github.com/Rishabjain12-glitch)
-Full-stack YouTube-like platform built with Django & ReactJS featuring video upload, streaming, and user authentication.
+### 📈 [Equity Classification — WiDS Datathon](https://github.com/Rishabjain12-glitch/Equity-Classification)
+> **Machine Learning · Quantitative Finance · WiDS**
 
-### 🤖 AI Data Processing Tool
-Secure data processing application leveraging AI for intelligent analysis and insights with privacy-first approach.
+Built an ML pipeline that classifies long-term equity investment decisions using **fundamental financial ratios** (P/E, ROE, debt-equity, etc.) — not price signals. Benchmarked multiple classifiers (Logistic Regression, Random Forest, XGBoost) against conventional equity research frameworks. Demonstrates a systematic, data-driven approach to stock picking aligned with value investing principles.
 
-### 📊 Materials Characterization Research
-Research projects on semiconductor physics, fracture mechanics, and advanced materials testing at IIT Bombay.
-
-### 🌲 Carbon Estimation System
-Remote sensing and LiDAR data analysis for sustainable technology and environmental impact assessment.
+**Key Skills:** Feature engineering on financial data, model evaluation, SHAP explainability, investment signal generation
 
 ---
 
-## 📋 Project Briefs
+### 🔐 [SecureInsight — RAG Financial Analytics Agent](https://github.com/Rishabjain12-glitch/Magic-Bus-Data-analyst-Chatbot)
+> **FinEdge 2025 · IIT Bombay · Privacy-First AI**
 
-### 🎥 VideoHub - Full-Stack Video Platform
-**Tech Stack:** Django REST APIs, ReactJS, SQLite, JWT Authentication  
-**Description:** Built a complete YouTube-like platform with video upload/streaming capabilities, secure JWT-based authentication, and CORS-configured frontend-backend communication. Demonstrates end-to-end full-stack development with modern web technologies.
-**Repository:** [github.com/Rishabjain12-glitch/videohub](https://github.com/Rishabjain12-glitch/videohub)
+Developed an on-premise RAG-based financial analytics agent for Magic Bus (₹28M+ annual expenditure). Finance managers can query complex financial PDFs and Excel sheets in natural language — **zero cloud dependency**, runs on 8GB RAM laptops. Built with LlamaIndex, Ollama (Phi-3), and Sentence-Transformers.
 
-### 🤖 Document QA Chatbot - RAG-Powered Intelligence
-**Tech Stack:** Python, Streamlit, Ollama, Vector Embeddings, LLMs  
-**Description:** Developed a Retrieval-Augmented Generation (RAG) chatbot that processes multi-format documents (CSV, Excel, PDF, TXT), builds semantic search indexes using local embeddings, and enables intelligent Q&A through conversational AI. Optimized for CPU-only environments with session-based chat history.
-**Repository:** [github.com/Rishabjain12-glitch/document-qa](https://github.com/Rishabjain12-glitch/document-qa)
+**Key Skills:** RAG pipelines, financial document parsing, local LLM deployment, Streamlit, cost-efficient AI
+
+---
+
+### 🤖 [Document QA Chatbot](https://github.com/Rishabjain12-glitch/document-qa)
+> **RAG · NLP · Python · Streamlit**
+
+Retrieval-Augmented Generation chatbot that processes CSV, Excel, PDF, and TXT files using local vector embeddings for semantic search. Designed for CPU-only environments with persistent session-based chat history.
+
+---
+
+### 🧬 [Materials Informatics — SOS'25 ML Research](https://github.com/Rishabjain12-glitch/SOS-Machine-Learning-)
+> **IIT Bombay · Maths & Physics Club · Summer of Science**
+
+Explored machine learning applications in materials science — applying data-driven modeling techniques to predict material properties and behaviors. Bridges quantitative methods from finance-style data analysis into scientific research.
+
+---
+
+### 🎥 [VideoHub — Full-Stack Video Platform](https://github.com/Rishabjain12-glitch/videohub)
+> **Django · ReactJS · JWT · PostgreSQL**
+
+End-to-end YouTube-like platform with video upload, streaming, and secure JWT-based authentication. Demonstrates full production-grade backend-frontend architecture.
+
+---
+
+### 🛒 [Quick Commerce Scraper](https://github.com/Rishabjain12-glitch/quick-commerce-scraper)
+> **Python · Web Scraping · Data Pipeline**
+
+Automated scraper for quick-commerce platforms to track pricing data and product availability — useful for competitive intelligence and market analysis.
+
+---
 
 ### 🎙️ LiveKit Agentic Voice Interrupt Handler
-**Tech Stack:** LiveKit, Speech-to-Text, Voice Activity Detection (VAD), Python  
-**Description:** Engineered an intelligent interrupt-handling pipeline for real-time voice AI agents. Implemented sophisticated filtering logic to suppress benign backchannel words ("yeah", "ok", "hmm") while preserving critical hard commands ("stop", "wait", "no"). Optimized voice interaction naturalness by reducing false interruptions and improving agent responsiveness.
-**Key Achievement:** Designed VAD and STT processing with stateful interrupt logic, making voice agents more conversational and less reactive to casual acknowledgments.
-**Status:** Completed assignment - December 2025
+> **LiveKit · VAD · Speech-to-Text · Python**
 
-### 📊 Magic Bus Data Analyst Chatbot
-**Tech Stack:** Python, AI/ML, Data Processing  
-**Description:** Built an interactive chatbot for dataset analysis and insight extraction. Enables users to upload datasets and query them conversationally, providing data-driven answers and actionable insights through natural language interfaces.
-**Repository:** [github.com/Rishabjain12-glitch/Magic-Bus-Data-analyst-Chatbot](https://github.com/Rishabjain12-glitch/Magic-Bus-Data-analyst-Chatbot)
+Engineered an intelligent interrupt-handling pipeline for real-time voice AI agents. Implemented stateful logic to filter benign backchannels ("yeah", "ok", "hmm") while preserving hard commands ("stop", "wait", "no") — significantly improving agent responsiveness and conversational naturalness.
 
-### 🧬 SOS Machine Learning - Materials Informatics
-**Tech Stack:** Python, Jupyter Notebooks, Scikit-learn, Data Science  
-**Description:** Summer of Science (SOS25) research project for Maths & Physics Club at IIT Bombay. Explored machine learning applications in materials informatics using data analysis and model development for materials science problems.
-**Repository:** [github.com/Rishabjain12-glitch/SOS-Machine-Learning-](https://github.com/Rishabjain12-glitch/SOS-Machine-Learning-)
+---
 
-### 💬 BlogTalk AI - Voice & AI Blogging Platform
-**Tech Stack:** Node.js, Express, PostgreSQL, Next.js 14, Tailwind CSS, Speech-to-Text, LLM APIs  
-**Description:** Comprehensive blogging platform featuring voice-to-text content creation, AI-powered title suggestions, tone analysis, automatic summaries, and multilingual translation. Implements JWT/bcrypt authentication for secure user management with LLM-powered content enhancement.
-**Key Features:** Speech-to-text transcription, AI tone analysis, multi-language support, secure authentication
-**Status:** In Development - November 2025
+## 📋 Finance & Quant Focus
 
-### 📋 Contact List Application
-**Tech Stack:** React, JavaScript, StackBlitz  
-**Description:** Contact management application built with modern React component architecture, demonstrating state management and reusable component patterns for CRUD operations.
-**Repository:** [github.com/Rishabjain12-glitch/Contact1List--application](https://github.com/Rishabjain12-glitch/Contact1List--application)
-
-### 🌲 Mishya Foundation - Social Impact Project
-**Duration:** 2020-2021  
-**Description:** Founded during COVID-19 to teach speaking skills and arts & crafts to underprivileged children through monthly community activities. Managed operations while fundraising ₹20,000+ and supporting family business growth simultaneously. Demonstrates leadership, social responsibility, and community impact.
-
-### 🔐 SecureInsight - Privacy-First AI Financial Analytics for Magic Bus
-**Event:** IITB FinEdge 2025  
-**Tech Stack:** Python, Streamlit, LlamaIndex, Ollama (Phi-3), Sentence-Transformers, RAG  
-**Description:** Developed an on-premise RAG-based financial analytics agent for Magic Bus (₹28M+ annual expenditure). Enables non-technical finance managers to extract insights from complex financial data (PDFs, Excel sheets) using natural language queries without any cloud dependency. Designed for CPU-only execution on standard laptops (8GB RAM), ensuring zero data leakage and complete privacy compliance.
-**Key Features:** 
-- Local-first architecture with zero public API dependency
-- Natural language queries on unstructured financial documents
-- Efficient small language model (Phi-3) optimized for cost effectiveness
-- User-friendly Streamlit interface for finance professionals
-- Addresses $28M+ annual financial data analysis challenges
-**Status:** Completed for FinEdge 2025 competition
+| Area | Project / Experience |
+|------|----------------------|
+| Equity Research (ML) | Equity Classification — WiDS Datathon |
+| Financial AI Agents | SecureInsight — FinEdge 2025, IITB |
+| Data Analytics | Magic Bus Data Analyst Chatbot |
+| Capital Markets | Academic Projects Manager, Motilal Oswal Centre for Capital Markets @ IITB DRF |
+| Quantitative Methods | SOS'25 Machine Learning Research |
 
 ---
 
@@ -106,40 +102,40 @@ Remote sensing and LiDAR data analysis for sustainable technology and environmen
 
 ## 🎓 Education & Experience
 
-**IIT Bombay** | B.Tech in MEMS (2023-2027)  
-- Coursework: Semiconductors, Fracture Mechanics, Materials Characterization
-- Active in research projects and laboratory work
-- Strong focus on materials science and engineering applications
+**IIT Bombay** | B.Tech in MEMS (2023–2027)  
+- Coursework: Semiconductors, Fracture Mechanics, Materials Characterization  
+- Active in research, hackathons, and quant finance projects
 
-**Technical Experience:**
-- Full-stack web development (Django + React)
-- AI/ML tool development
-- Data analysis and scientific computing
-- System design and architecture
+**Internship & Roles:**
+- **IIT Bombay DRF** — External Engagements Member & Web Manager; Academic Projects Manager at **Motilal Oswal Centre for Capital Markets**
+- **021 Solutions** — Strategy & Growth
 
-**Internship Experience:**
-- IIT Bombay (Developments & Relations Foundation) - Member of external engagements, Web Manager
-- 021 solutions - Strategy & Growth
+**Competitions & Achievements:**
+- WiDS Datathon — Equity Classification ML project
+- IITB FinEdge 2025 — SecureInsight Financial Analytics Agent
+- Summer of Science 2025 — ML Research, Maths & Physics Club
 
 ---
 
 ## 🏆 Skills & Interests
 
-- 💻 Full-stack Development
-- 🔬 Materials Science & Engineering
-- 📊 Data Analysis & Visualization
-- 🚀 Startup Ecosystem & Innovation
-- 📈 Quantitative Finance (Learning)
+- 📊 Quantitative Finance & Equity Research
+- 🤖 Machine Learning & AI (applied to financial data)
+- 💻 Full-Stack Development
+- 🔬 Materials Science & Informatics
+- 🚀 Startups & Entrepreneurship
+
 ---
 
 ## 📫 Connect With Me
 
-linkedin: https://www.linkedin.com/in/rishab-jain-iitb/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishab_Jain-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rishab-jain-iitb/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Rishabjain12--glitch-black?style=flat&logo=github)](https://github.com/Rishabjain12-glitch)
 
 ---
 
 ### 💭 Quote I Live By
-*"The best way to predict the future is to invent it."* - Alan Kay
+*"Price is what you pay. Value is what you get."* — Warren Buffett
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Rishabjain12-glitch.Rishabjain12-glitch)
 
