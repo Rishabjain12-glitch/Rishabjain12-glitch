@@ -86,16 +86,6 @@ Engineered an intelligent interrupt-handling pipeline for real-time voice AI age
 | Data Analytics | Magic Bus Data Analyst Chatbot |
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishabjain12-glitch&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabjain12-glitch&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishabjain12-glitch&theme=radical&hide_border=true)
-
----
-
 ## 🎓 Education & Experience
 
 **IIT Bombay** | B.Tech in MEMS (2023–2027)  
